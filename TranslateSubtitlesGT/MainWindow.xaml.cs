@@ -137,7 +137,7 @@ namespace TranslateSubtitlesGT
             {
                 using (var tw = new StreamWriter(fileOutput, true))
                 {
-                    if (line.Length > 0 && !char.IsDigit(line[0]))
+                    if (!line.Contains("WEBVTT") && line.Length > 0 && !char.IsDigit(line[0]))
                     {
                         var translatedstring = Translate(line);
                         tw.WriteLine(translatedstring);
