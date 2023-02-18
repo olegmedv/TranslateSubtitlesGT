@@ -1,0 +1,2 @@
+C:\Users\MSINote\source\repos\TranslateSubtitlesGT\TranslateSubtitlesGT\bin\Release\net6.0-windows\publish\win-x86\TranslateSubtitlesGT.pdb
+C:\Users\MSINote\source\repos\TranslateSubtitlesGT\TranslateSubtitlesGT\bin\Release\net6.0-windows\publish\win-x86\TranslateSubtitlesGT.exe

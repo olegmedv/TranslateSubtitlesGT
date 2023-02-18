@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslateSubtitlesGT", "TranslateSubtitlesGT\TranslateSubtitlesGT.csproj", "{AAF520F9-407E-475A-B21F-F8CA0CFD0BCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAF520F9-407E-475A-B21F-F8CA0CFD0BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF520F9-407E-475A-B21F-F8CA0CFD0BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF520F9-407E-475A-B21F-F8CA0CFD0BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF520F9-407E-475A-B21F-F8CA0CFD0BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DF7F525-A040-409C-93FE-B2D03B4C323D}
+	EndGlobalSection
+EndGlobal

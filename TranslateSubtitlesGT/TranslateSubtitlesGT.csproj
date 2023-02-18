@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <PublishSingleFile>true</PublishSingleFile>
+    <ApplicationIcon>icons8-translation-64.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="icons8-translation-64.png" />
+    <None Remove="language-solid.jpg" />
+    <None Remove="language-solid.svg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="icons8-translation-64.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="icons8-translation-64.png" />
+    <Resource Include="language-solid.jpg" />
+    <Resource Include="language-solid.svg" />
+  </ItemGroup>
+
+</Project>
