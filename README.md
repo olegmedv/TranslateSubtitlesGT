@@ -1,5 +1,5 @@
 <h1>Batch Translate Subtitles using Google Translate</h1>
-required .net6
+
 
 ![image](https://user-images.githubusercontent.com/63075175/219882508-19090b71-c32d-4bb9-aa98-a40a94740d85.png)
 
@@ -8,3 +8,6 @@ required .net6
 3) enter the language, for example en-fr, en-it
 4) enter subtitle extension type
 5) press Translate
+
+
+required .net6
