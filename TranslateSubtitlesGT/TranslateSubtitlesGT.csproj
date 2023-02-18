@@ -11,8 +11,6 @@
 
   <ItemGroup>
     <None Remove="icons8-translation-64.png" />
-    <None Remove="language-solid.jpg" />
-    <None Remove="language-solid.svg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -21,8 +19,6 @@
 
   <ItemGroup>
     <Resource Include="icons8-translation-64.png" />
-    <Resource Include="language-solid.jpg" />
-    <Resource Include="language-solid.svg" />
   </ItemGroup>
 
 </Project>
